@@ -1,0 +1,30 @@
+ABEGO_types
+
+looplen 1 count 146 bb AAAAABAAAAA mnangle: 108.429 sdev: 33.613
+looplen 1 count 45 bb AAAAAEAAAAA mnangle: 124.989 sdev: 15.252
+looplen 1 count 26 bb AAAAAGAAAAA mnangle: 102.413 sdev: 35.536
+looplen 2 count 99 bb AAAAAGBAAAAA mnangle: 150.700 sdev: 27.352
+looplen 2 count 86 bb AAAAABBAAAAA mnangle: 115.071 sdev: 32.958
+looplen 2 count 10 bb AAAAAGEAAAAA mnangle: 75.082 sdev: 13.539
+
+looplen 3 count 154 bb AAAAAGBBAAAAA mnangle: 124.670 sdev: 24.235
+looplen 3 count 51 bb AAAAABABAAAAA mnangle: 141.645 sdev: 24.376
+looplen 3 count 15 bb AAAAABBBAAAAA mnangle: 100.974 sdev: 48.283
+looplen 3 count 8 bb AAAAABBGAAAAA mnangle: 114.295 sdev: 13.645
+looplen 3 count 7 bb AAAAABBEAAAAA mnangle: 148.751 sdev: 15.721
+looplen 3 count 6 bb AAAAAGGBAAAAA mnangle: 122.271 sdev: 17.561
+
+looplen 4 count 26 bb AAAAAGABBAAAAA mnangle: 151.537 sdev: 17.802
+looplen 4 count 26 bb AAAAABBBBAAAAA mnangle: 132.740 sdev: 30.383
+looplen 4 count 20 bb AAAAAGBBBAAAAA mnangle: 131.848 sdev: 29.327
+looplen 4 count 13 bb AAAAABAABAAAAA mnangle: 128.014 sdev: 40.081
+looplen 4 count 8 bb AAAAABBABAAAAA mnangle: 111.171 sdev: 37.178
+looplen 4 count 7 bb AAAAAGBABAAAAA mnangle: 101.972 sdev: 36.567
+looplen 4 count 6 bb AAAAABGBBAAAAA mnangle: 113.736 sdev: 28.806
+
+looplen 5 count 47 bb AAAAAGBBBBAAAAA mnangle: 120.718 sdev: 23.704
+looplen 5 count 32 bb AAAAABAABBAAAAA mnangle: 132.674 sdev: 22.092
+looplen 5 count 10 bb AAAAABBAABAAAAA mnangle: 142.909 sdev: 18.731
+looplen 5 count 9 bb AAAAAGABABAAAAA mnangle: 143.481 sdev: 27.513
+looplen 5 count 7 bb AAAAABBGBBAAAAA mnangle: 147.496 sdev: 13.426
+looplen 5 count 6 bb AAAAABABBBAAAAA mnangle: 141.283 sdev: 18.422

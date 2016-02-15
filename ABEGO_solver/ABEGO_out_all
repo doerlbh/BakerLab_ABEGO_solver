@@ -1,0 +1,682 @@
+ABEGO_out_all
+
+18A19B_renum_0001-ext_ends_0_loop_len_4_Amin1.pdb               AAAAAAAAAAAAABAGBAAAAAAAAAAAAAA
+18A19B_renum_0001-ext_ends_0_loop_len_4_Amin2.pdb                  AAAAAAAAAAAAABBBBAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_4_A.pdb                  AAAAAGBAGBAAAAAAAAAAAAAAAAA      
+18A19B_renum_0001-ext_ends_0_loop_len_4_Aplus1.pdb                  AAAAAAAAAAAABBEAAAAAAAAAAAA     
+18A19B_renum_0001-ext_ends_0_loop_len_4_Aplus2.pdb                  AAAAAAAAAAAAABBBAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_4_Bmin1.pdb                   AAAAAAAAABBBBOAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_4_Bmin2.pdb                  AAAAAAAAAAAAAAAABBBAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_4_B.pdb                   AAAAAAABBEAAAAAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_4_Bplus1.pdb                AAAAAAAAAAAABBBAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_4_Bplus2.pdb                 AAAAAAAAAAAAABBEAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_5_Amin1.pdb                AAAAAAAAAAGBBBBAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_5_Amin2.pdb                  AAAAAAAAAAAAABBBBAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_5_A.pdb                   AAAAAAAABBEAAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_5_Aplus1.pdb                AAAAAAAAAAAAAEBEAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAAAABBBAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_5_Bmin1.pdb                AAAAAAAAAAAABBGBAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_5_Bmin2.pdb                  AAAAAAAAAAAAAAAAAGBBAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_5_B.pdb                 AAAAAAAABBBAAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_5_Bplus1.pdb                AAAAAAAAAAAAAEBBAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_5_Bplus2.pdb                 AAAAAAAAAAAAABBBEAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_Amin1.pdb                AAAAAAAAAAOBBGABAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_6_Amin2.pdb                  AAAAAAAAAAAAABBBABAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_A.pdb                 AAAAAAAAGBBBAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAABBBBAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAAAAGBBAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_Bmin1.pdb                AAAAAAAAAAAAAGBBGAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_Bmin2.pdb                  AAAAAAAAAAAAAAABGBBAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_B.pdb                 AAAAAAAAGAGBAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_Bplus1.pdb                AAAAAAAAAAAAABBBBAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_6_Bplus2.pdb                 AAAAAAAAAAAAAAGBABAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Amin1.pdb                AAAAAAAAAAAABGBGBAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Amin2.pdb                  AAAAAAAAAAAAAAGBAAGBAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_A.pdb                 AAAAAAAAGABBAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAEBABAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAAGBAABAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAABBGBAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Bmin2.pdb                  AAAAAAAAAAAAAAAAAGBAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_B.pdb                 AAAAAAAAGBABAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Bplus1.pdb                AAAAAAAAAAAAAGBABAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_7_Bplus2.pdb                 AAAAAAAAAAAAABBGBBAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_8_Amin1.pdb                AAAAAAAAAABBBBAABBAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_8_Amin2.pdb                  AAAAAAAAAAAAAAAABBBGBAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_8_A.pdb                 AAAAAAAAGABABAAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_8_Aplus1.pdb                AAAAAAAAAAAABABAEGBAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAAABABBABAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_8_Bmin1.pdb                AAAAAAAAAAAABBABBAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_8_Bmin2.pdb                  AAAAAAAAAAAAAAAAABAGBAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_8_B.pdb                 AAAAAAABAAABGBAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_0_loop_len_8_Bplus1.pdb                AAAAAAAAAAAAABABBBBAAAAAAAA       
+18A19B_renum_0001-ext_ends_0_loop_len_8_Bplus2.pdb                AAAAAAAAAAAAAAEABBBAAAAAAAA       
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Amin1.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_1_loop_len_4_Amin1.pdb                AAAAAAAAAAAABBAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Amin2.pdb                 AAAAAAAAAAEEAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_Amin2.pdb                   AAAAAAAAAAAAABGBBAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_4_A.pdb                 AAAAAAAAAABBGBAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_A.pdb                AAAAAAAGBBAAAAAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Aplus1.pdb                 AAAAAAAAAABABOBAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_Aplus1.pdb                AAAAAAAAAAAAGABBAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Aplus2.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_Aplus2.pdb                AAAAAAAAAAAAAGABABAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Bmin1.pdb                 AAAAAAAAAAAGBAAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_1_loop_len_4_Bmin1.pdb                AAAAAAAAAAAAEBBAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Bmin2.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_Bmin2.pdb                   AAAAAAAAAAAAAAABBBAAAAAAAAA       
+18A19B_renum_0001-ext_ends_-1_loop_len_4_B.pdb                 AAAAAAAAAAAGEEAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_1_loop_len_4_B.pdb                AAAAAAAGBBAAAAAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Bplus1.pdb                 AAAAAAAAAAAGEAEAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_Bplus1.pdb                AAAAAAAAAAABBABBAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_-1_loop_len_4_Bplus2.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_4_Bplus2.pdb                AAAAAAAAAAAAABBBABAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Amin1.pdb                 AAAAAAAAAABBABAAAAAAAAAAAAA        
+18A19B_renum_0001-ext_ends_1_loop_len_5_Amin1.pdb                AAAAAAAAAAAAGBBAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Amin2.pdb                 AAAAAAAAAABGBAAAAAAAAAAAAAA       
+18A19B_renum_0001-ext_ends_1_loop_len_5_Amin2.pdb                   AAAAAAAAAAAAAABGBBAAAAAAAAA        
+18A19B_renum_0001-ext_ends_-1_loop_len_5_A.pdb                 AAAAAAAAAAAEBEABAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_A.pdb                AAAAAAAGABBAAAAAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Aplus1.pdb                 AAAAAAAAAAAAAABEAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_Aplus1.pdb                AAAAAAAAAAAAAGGBGAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAAABEEAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_Aplus2.pdb                AAAAAAAAAAAAAAGGABBAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Bmin1.pdb                 AAAAAAAAAAAEBBBGAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_Bmin1.pdb                AAAAAAAAAAAAGBBEAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Bmin2.pdb                 AAAAAAAAAAAEABBBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_Bmin2.pdb                   AAAAAAAAAAAAAAAAGBBGAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_B.pdb                 AAAAAAAAAABBBEBAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_B.pdb                AAAAAAAGABBAAAAAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Bplus1.pdb                 AAAAAAAAAABAABBAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_Bplus1.pdb                AAAAAAAAAAAAGABBAAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_5_Bplus2.pdb                 AAAAAAAAAAAEBAGBAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_5_Bplus2.pdb                AAAAAAAAAAAAABBBBAAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Amin1.pdb                 AAAAAAAAAABBBBBGAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Amin1.pdb                AAAAAAAAAAAAGABBAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Amin2.pdb                 AAAAAAAAAAABABAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Amin2.pdb                   AAAAAAAAAAAAAAABBABAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_A.pdb                 AAAAAAAAAAABGBABAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_A.pdb                AAAAAAAGAABBAAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Aplus1.pdb                 AAAAAAAAAAAAAAEEEAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAAGGABBAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAABBBAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Aplus2.pdb                  AAAAAAAAAAAAAAAAAAAAGBOBAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_B.pdb               AAAAABABBBAAAAAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Bmin1.pdb                 AAAAAAAAAAAAABBAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Bmin1.pdb                AAAAAAAAAAAABABBBAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Bmin2.pdb                 AAAAAAAAAAAEAAABBAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Bmin2.pdb                  AAAAAAAAAAAAAAAAAGBBBAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_B.pdb                AAAAAAAAGEBBAAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Bplus1.pdb                 AAAAAAAAAAAGBABBBAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Bplus1.pdb                AAAAAAAAABBBBBBBBBOEAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_6_Bplus2.pdb                 AAAAAAAAAAABAABBBAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_6_Bplus2.pdb                AAAAAAAAAAAABBBABAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Amin1.pdb                 AAAAAAAAAAABGAGBAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Amin1.pdb                AAAAAAAAAAABABBBBAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Amin2.pdb                 AAAAAAAAAABABBEAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Amin2.pdb                   AAAAAAAAAAAAAAAAGBEBAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_A.pdb                 AAAAAAAAAAABGABBBAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_A.pdb                AAAAAAAGAABGAAAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Aplus1.pdb                 AAAAAAAAAAAAAAGBBBAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAAAGABBAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAAGBEEAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Aplus2.pdb                AAAAAAAAAAAAAAAAGABBAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Bmin1.pdb                 AAAAAAAAAAAGBBAAAGAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Bmin1.pdb                AAAAAAAAAAAABABBGBAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Bmin2.pdb                 AAAAAAAAAAAAAAGBBAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Bmin2.pdb                   AAAAAAAAAAAAAAAAGABBAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_B.pdb                 AAAAAAAAAAAEBAGBAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_B.pdb                AAAAAAAAAAGBBAAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Bplus1.pdb                 AAAAAAAAAAABGABBBBAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Bplus1.pdb                AAAAAAAAAAABBBBBAAAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_7_Bplus2.pdb                 AAAAAAAAAAABBABBBBAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_7_Bplus2.pdb                AAAAAAAAAAAAAAABBBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Amin1.pdb                 AAAAAAAAAABABBAABAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Amin1.pdb                AAAAAAAAAAABBGAAAAAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Amin2.pdb                 AAAAAAAAAABBBBAABAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Amin2.pdb                   AAAAAAAAAAAAAAAAGBBABAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_A.pdb                 AAAAAAAAAABBGBBAAAGAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_A.pdb                AAAAAAAGABAABBAAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Aplus1.pdb                 AAAAAAAAAAAAABAABBEAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Aplus1.pdb                AAAAAAAAAAAABABAABAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAABEBEBAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Aplus2.pdb                AAAAAAAAAAAAAAABBGBBBBAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Bmin1.pdb                 AAAAAAAAAAABGBABAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Bmin1.pdb                AAAAAAAAAAAAABGBBBBAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Bmin2.pdb                 AAAAAAAAAAAAAAGBBGAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Bmin2.pdb                   AAAAAAAAAAAAAAAABBBAABAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_B.pdb                 AAAAAAAAAAAAAABAGBAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_B.pdb                AAAAAAABABBBABAAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Bplus1.pdb                 AAAAAAAAAAABBBGBBBBAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Bplus1.pdb                AAAAAAAAAAABBBBABBGAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-1_loop_len_8_Bplus2.pdb EA                  AAAAAAAAAAAAAABBABAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_1_loop_len_8_Bplus2.pdb                AAAAAAAAAAAAABBABABBAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Amin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Amin1.pdb                AAAAAAAAABBBBBBBOEAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Amin2.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Amin2.pdb                   AAAAAAAAAAAAAAABAAAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_A.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_A.pdb                AAAABBBBBBBOBBAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Aplus1.pdb                 AAAAAAAAAABBBBBBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Aplus1.pdb                AAAAAAAAABBBBBBBBABBAAAAAAA        AAAAAAAAAAAAO 
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Aplus2.pdb                 AAAAAAAAAAAOBBBBBAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Aplus2.pdb                AAAAAAAAAAAAAAAAGBEBAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Bmin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Bmin1.pdb                AAAAAAAAAAAAGGABAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Bmin2.pdb                 AAAAAAAAABBBBOBAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Bmin2.pdb                   AAAAAAAAAAAAAAAABBBBAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_B.pdb                 AAAAAAAAABBAEBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_B.pdb                AAAAAAAGBAAAAAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Bplus1.pdb                 AAAAAAAAAOBBBBBAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Bplus1.pdb                AAAAAAAAAAAAEBBAAAAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_4_Bplus2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_4_Bplus2.pdb                AAAAAAAAAAAAABBBBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Amin1.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Amin1.pdb                AAAAAAAAAAABBBBGAAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Amin2.pdb                 AAAAAAABBBBBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Amin2.pdb                   AAAAAAAAAAAAAAABBBBBAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_A.pdb                 AAAAAAAAAABABBGAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_A.pdb                AAAAAAAEBBEAAAAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Aplus1.pdb                 AAAAAAAAAAAEAABBAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Aplus1.pdb                AAAAAAAAAAAAGABBEAAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAAEBBBBBAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Aplus2.pdb                AAAAAAAAAAAAAAAAEBBGAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Bmin1.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Bmin1.pdb                AAAAAAAAAAAABBBABAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Bmin2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Bmin2.pdb                   AAAAAAAAAAAAAAAAAGBBBAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_B.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_B.pdb                AAAAAAAEBBEAAAAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Bplus1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Bplus1.pdb                AAAAAAAAABBBBBBBBBOBBAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_5_Bplus2.pdb                 AAAAAAAAAAABGBBAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_5_Bplus2.pdb                AAAAAAAAAAAAAABGBBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Amin1.pdb                 AAAAAAAAAABBEAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Amin1.pdb                AAAAAAAAAAABBBBAAAAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Amin2.pdb                 AAAAAAAAABBEAAAAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Amin2.pdb                   AAAAAAAAAAAAAABGBBEAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_A.pdb                 AAAAAAAAAABABBAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_A.pdb                AAAAAAABAABAAAAAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Aplus1.pdb                 AAAAAAAAAAAEBGBBGAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAAABBBEAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAABBBAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Aplus2.pdb                AAAAAAAAAAAAAAAAAGBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Bmin1.pdb                 AAAAAAAAAAAGGAABAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Bmin1.pdb                AAAAAAAAAAAAAAABABAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Bmin2.pdb                 AAAAAAAAAAAGGABAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Bmin2.pdb                   AAAAAAAAAAAAAAAAAGGBBBAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_B.pdb                 AAAAAAAAAABABEAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_B.pdb                AAAAAAAAAABAAAAAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Bplus1.pdb                 AAAAAAAAAABBBABAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Bplus1.pdb                AAAAAAAAAAAABABBBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_6_Bplus2.pdb                 AAAAAAAAAAABBAABAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_6_Bplus2.pdb                AAAAAAAAAAAAABBBGBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Amin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Amin1.pdb                AAAAAAAAAAAAGBABBGAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Amin2.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Amin2.pdb                   AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_A.pdb                 AAAAAAAAAABBBGBAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_A.pdb                AAAAAAABABBBGGAAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Aplus1.pdb                 AAAAAAAAAAAAABBBAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAAABBBBGAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAABBEAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Aplus2.pdb                AAAAAAAAAAAAAAAAGABBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Bmin1.pdb                 AAAAAAAAAABBABAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Bmin2.pdb                 AAAAAAAAAAAGBBAABAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Bmin2.pdb                   AAAAAAAAAAAAAAAABABABBBAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_B.pdb                 AAAAAAAAAABBAABAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_B.pdb                AAAAAAABBAABAAAAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Bplus1.pdb                 AAAAAAAAAABBABBBAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Bplus1.pdb                AAAAAAAAAAAAABABBBBAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_7_Bplus2.pdb                 AAAAAAAAAABBEABBBAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_7_Bplus2.pdb                AAAAAAAAAAAAAAABAABBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Amin1.pdb                 AAAAAAAAAABBBABAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Amin1.pdb                AAAAAAAAAAAAGGGGBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Amin2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Amin2.pdb                   AAAAAAAAAAAAAAABEBBBOAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_A.pdb                 AAAAAAAAAAABGBABAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_A.pdb                AAAAAAAGBBGAAAAAAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Aplus1.pdb                 AAAAAAAAAAAEAABBAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Aplus1.pdb                AAAAAAAAAAAAAAABABEBGAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAAAGBBABGAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Aplus2.pdb                AAAAAAAAAAAAAAAAGABBABGAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Bmin1.pdb                 AAAAAAAAAAAAABBAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Bmin1.pdb                AAAAAAAAAAAAABGBBGBBAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Bmin2.pdb                 AAAAAAAAAAAGBBBAABAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Bmin2.pdb                   AAAAAAAAAAAAAAAABBBGBBBBAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_B.pdb                 AAAAAAAAAABAAABAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_B.pdb                AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Bplus1.pdb                 AAAAAAAAAABBBGBBGBAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Bplus1.pdb                AAAAAAAAAAAABBBABAABAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-2_loop_len_8_Bplus2.pdb                 AAAAAAAAAAAGBBAABBAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_2_loop_len_8_Bplus2.pdb                AAAAAAAAAAAAAAAAGBAAAAAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Amin1.pdb                 AAAAAAABBBBBBAAAAAAAAAAAAAA        AAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Amin1.pdb                AAAAAAAAAAAABABAAAAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Amin2.pdb                 AAAAAAABAGBAAAAAAAAAAAAAAAA        AO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Amin2.pdb                   AAAAAAAAAAAAAAAABBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_A.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_A.pdb                AAAAAAAABGBBAAAAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Aplus1.pdb                 AAAAAAAAAAAGBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Aplus1.pdb                AAAAAAAAABGGBABABAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Aplus2.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Aplus2.pdb                AAAAAAAAAAAAAAAAAGBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Bmin1.pdb                 AAAAAAAABOBBBBAAAAAAAAAAAAA        AAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Bmin1.pdb                AAAAAAAAABBBBBBBBBOEAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Bmin2.pdb                 AAAAAAAABBOBBBAAAAAAAAAAAAA        AO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Bmin2.pdb                   AAAAAAAAAAAAAAAAGBGBBAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_B.pdb                 AAAAAAAAAABEEAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_B.pdb                AAAAAAAAAABAAAAAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Bplus1.pdb                 AAAAAAAABBBBOBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Bplus1.pdb                AAAAAAAAAAAAAAABBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_4_Bplus2.pdb                 AAAAAAAAOBBBBBAAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_4_Bplus2.pdb                AAAAAAAAAAAAAAAABBAEAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Amin1.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Amin1.pdb                AAAAAAAAAAAAEBABAAAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Amin2.pdb                 AAAAAAABBAABAAAAAAAAAAAAAAA        AAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Amin2.pdb                   AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_A.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_A.pdb                AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Aplus1.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Aplus1.pdb                AAAAAAAAAAAAAAABBBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAAAABBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Aplus2.pdb                AAAAAAAAAAAAAAAABAGBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Bmin1.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Bmin1.pdb                AAAAAAAAAAAAAAABAAAAAAAAAAA        AAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Bmin2.pdb                 AAAAAAAAAAGBBAAAAAAAAAAAAAA        AAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Bmin2.pdb                   AAAAAAAAAAAAABBOBBBBBBBBAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_B.pdb                 AAAAAAAAAAAGBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_B.pdb                AAAAAAAABGBBAAAAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Bplus1.pdb                 AAAAAAAABBBBBABAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Bplus1.pdb                AAAAAAAAAAAAAAABBBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_5_Bplus2.pdb                 AAAAAAAAABEEEAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_5_Bplus2.pdb                AAAAAAAAAAAAAAAABAAAAAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Amin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Amin1.pdb                AAAAAAAAAAAAABGBBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Amin2.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Amin2.pdb                   AAAAAAAAAAAAAAABBBBBBAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_A.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_A.pdb                AAAAAAAAAABBGBAAAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Aplus1.pdb                 AAAAAAAAAABAAGGBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAAAAGABAGAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAGBAAABAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Aplus2.pdb                AAAAAAAAAAAAAAAAAGBBBEAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Bmin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Bmin1.pdb                AAAAAAAAAAAAAAABBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Bmin2.pdb EA                  AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Bmin2.pdb                   AAAAAAAAAAAAAAAAAAAGABBAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_B.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_B.pdb                AAAAAAAAAAABBAAAAAAAAAAAAAA        AAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Bplus1.pdb                 AAAAAAAAAABBBBGAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Bplus1.pdb                AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_6_Bplus2.pdb                 AAAAAAAAAABBEOAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_6_Bplus2.pdb                AAAAAAAAAAAAAAABEBBBAAAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Amin1.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Amin1.pdb                AAAAAAAAAAAABBAABBBAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Amin2.pdb                 AAAAAAABBEAABBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Amin2.pdb                   AAAAAAAAAAAAAAAABBABBBAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_A.pdb                 AAAAAAAAABEABBBBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_A.pdb                AAAAAAAAAAGABBAAAAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Aplus1.pdb                 AAAAAAAAAAAGBAAABAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAAABBBBGBAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Aplus2.pdb                 AAAAAAAAAAABBBGBBBAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Aplus2.pdb                AAAAAAAAAAAAAAAABBBBBBAAAAA        AAAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Bmin1.pdb                 AAAAAAAAAABBBABAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAABGABBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Bmin2.pdb                 AAAAAAAAAABBEBAAAAAAAAAAAAA        AAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Bmin2.pdb                   AAAAAAAAAAAAAAAAAAAGBAAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_B.pdb                 AAAAAAAAAABEABBBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_B.pdb                AAAAAAAABGAGBBAAAAAAAAAAAAA        AAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Bplus1.pdb                 AAAAAAAAAAGABBABAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Bplus1.pdb                AAAAAAAAAAAAAAABABBBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_7_Bplus2.pdb                 AAAAAAAAAABBAABAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_7_Bplus2.pdb                AAAAAAAAAAAAAAAABAABGAAAAAA        AAAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Amin1.pdb                 AAAAAAAAAABBAAAAAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Amin1.pdb                AAAAAAAAAAAAAABBGAABAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Amin2.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Amin2.pdb                   AAAAAAAAAAAAAAAAGAAAABAAAAA        AAAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_A.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_A.pdb                AAAAAAAAAAGBBBBAAAAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Aplus1.pdb                 AAAAAAAAAABABABAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Aplus1.pdb                AAAAAAAAAAAAAAABBBBBGBAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAABABBBBAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Aplus2.pdb                AAAAAAAAAAAAAAAABBABGBBBAAA        AAAAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Bmin1.pdb                 AAAAAAAAAABAGAGBAAAAAAAAAAA        AAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Bmin1.pdb                AAAAAAAAAAAAABBAABBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Bmin2.pdb                 AAAAAAAAAABBBBGBAAAAAAAAAAA        AAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Bmin2.pdb                   AAAAAAAAAAAAAAAAAABAABABBAA        AAAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_B.pdb                 AAAAAAAAAAABGBGBBAAAAAAAAAA        AAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_B.pdb                AAAAAAAAAABBBABAAAAAAAAAAAA        AAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Bplus1.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Bplus1.pdb                AAAAAAAAAAAAAABAABBBBAAAAAA        AAAAAAAAAAAAAAAAAAO
+18A19B_renum_0001-ext_ends_-3_loop_len_8_Bplus2.pdb                 AAAAAAAAAABBBABAAAAAAAAAAAA        AAAAAAAAAO
+18A19B_renum_0001-ext_ends_3_loop_len_8_Bplus2.pdb                 AAAAAAAAAAAAAAAAABAAGBBAAAA        AAAAAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Amin1.pdb                AAAAAAAAAABGABBAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Amin2.pdb                  AAAAAAAAAAAAABBEAABAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_A.pdb                 AAAAAAABEBBBAAAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Aplus1.pdb                AAAAAAAAAAAABBBBAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAABEBBBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Bmin1.pdb                AAAAAAAAAAAAAEBBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Bmin2.pdb                  AAAAAAAAAAAAAAAAABABGAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_B.pdb                 AAAAAAAABBBBAAAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Bplus1.pdb                AAAAAAAAAAAABBABAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_6_Bplus2.pdb                 AAAAAAAAAAAAAAEBBBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Amin1.pdb                AAAAAAAAAAAAAGBGAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Amin2.pdb                  AAAAAAAAAAAAABBABOBAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_A.pdb                 AAAAAAABBGBBAAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAGBEBAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAABAAGBAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAAGBBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Bmin2.pdb                  AAAAAAAAAAAAAAAABBBBBGAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_B.pdb                 AAAAAAAAGBABAAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Bplus1.pdb                AAAAAAAAAAAABBBGBAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_7_Bplus2.pdb                 AAAAAAAAAAAAAABABBBAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Amin1.pdb                AAAAAAAAAAAABBBABAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Amin2.pdb                  AAAAAAAAAAAAAAGBBBGABAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_A.pdb                 AAAAAAABBBABBAAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Aplus1.pdb                AAAAAAAAAAAAGBBBBBAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAABAAABBAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Bmin1.pdb                AAAAAAAAAAAAAGBABAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Bmin2.pdb                  AAAAAAAAAAAAAAAABBGBBAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_B.pdb                 AAAAAAAAAEABEBAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Bplus1.pdb                AAAAAAAAAAAAABAABBBAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_0_loop_len_8_Bplus2.pdb                AAAAAAAAAAAAAGBAAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Amin1.pdb                 AAAAAAAAAABBEAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Amin1.pdb                AAAAAAAAAAABEBAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Amin2.pdb                 AAAAAAAAAABBAAAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Amin2.pdb                   AAAAAAAAAAAABAABBAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_A.pdb                 AAAAAAAAAABABBGAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_A.pdb                AAAAAAAGBBAAAAAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Aplus1.pdb                 AAAAAAAAAAABGABAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Aplus1.pdb                AAAAAAAAAAAAEBAEAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Aplus2.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Aplus2.pdb                AAAAAAAAAAAAAAAAAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Bmin1.pdb                 AAAAAAAAAABBEAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Bmin1.pdb                AAAAAAAAAAAAGEEAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Bmin2.pdb                 AAAAAAAAAAAEBBBAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Bmin2.pdb                   AAAAAAAAAAAAAAAAGBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_B.pdb                 AAAAAAAAAABBBBGAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_B.pdb                AAAAAAAGBBAAAAAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Bplus1.pdb                 AAAAAAAAAAABBBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Bplus1.pdb                AAAAAAAAAAABBAAAAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_4_Bplus2.pdb                 AAAAAAAAAAAGBBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_4_Bplus2.pdb                AAAAAAAAAAAAABBBABAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Amin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Amin1.pdb                AAAAAAAAAAABBBBAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Amin2.pdb                 AAAAAAAAABBBBAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Amin2.pdb                   AAAAAAAAAAAAAAAABBAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_A.pdb                 AAAAAAAAAABBEBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_A.pdb                AAAAAAAGABBAAAAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Aplus1.pdb                 AAAAAAAAAAAAABGEAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Aplus1.pdb                AAAAAAAAAAAABAABBAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAAAAGBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Aplus2.pdb                AAAAAAAAAAAAAAAAGBBAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Bmin1.pdb                 AAAAAAAAAAAGGBBGAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Bmin1.pdb                AAAAAAAAAAAAGBBAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Bmin2.pdb                 AAAAAAAAAAAGBBGAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Bmin2.pdb                   AAAAAAAAAAAAAAAAGBBBAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_B.pdb                 AAAAAAAAAAAEABEAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_B.pdb                AAAAAAAGABBAAAAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Bplus1.pdb                 AAAAAAAAAAABGBBBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Bplus1.pdb                AAAAAAAAAAABBABBAAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_5_Bplus2.pdb                 AAAAAAAAAAAGGBBBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_5_Bplus2.pdb                AAAAAAAAAAAABBEBAAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Amin1.pdb                 AAAAAAAAAABBEBAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Amin1.pdb                AAAAAAAAAAAAGBEBAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Amin2.pdb                 AAAAAAAAAABABBGAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Amin2.pdb                   AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_A.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_A.pdb                AAAAAABABBEBAAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Aplus1.pdb                 AAAAAAAAAAAAAAGBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAGBAABBAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAAAGOEAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Aplus2.pdb                AAAAAAAAAAAAAAAAAGBBAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Bmin1.pdb                 AAAAAAAAAABBEBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Bmin1.pdb                AAAAAAAAAAABAABBAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Bmin2.pdb                  AAAAAAAAAAAAAAEBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_B.pdb                 AAAAAAAAAAAGBBGBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_B.pdb               AAAAAAAAAGBABBAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Bmin2.pdb GAAAA                  AAAAAAAAAABABBEAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Bplus1.pdb                 AAAAAAAAAAABAABBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Bplus1.pdb                AAAAAAAAAAABBABAAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_6_Bplus2.pdb                 AAAAAAAAAAABEABBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_6_Bplus2.pdb                AAAAAAAAAAAABBBABAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Amin1.pdb                 AAAAAAAAAAAGGAGBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Amin1.pdb                AAAAAAAAAAAAGABABAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Amin2.pdb                 AAAAAAAAAABBBBBGAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Amin2.pdb                   AAAAAAAAAAAAAAAAGBEBAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_A.pdb                 AAAAAAAAAAAAABBBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_A.pdb                AAAAAABAAABBBAAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Aplus1.pdb                 AAAAAAAAAAAAAAABGBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Aplus1.pdb                AAAAAAAAAAAABBBGBAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAAGBBAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Aplus2.pdb                AAAAAAAAAAAAAAAAGBBBBAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Bmin1.pdb                 AAAAAAAAAAAAABABAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAGBAAEAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Bmin2.pdb                 AAAAAAAAAAAGBABAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Bmin2.pdb                   AAAAAAAAAAAAAAAAGBBAEAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_B.pdb                 AAAAAAAAAAAGGAABAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_B.pdb                AAAAAAGBGEBBBAAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Bplus1.pdb                 AAAAAAAAAAAAAABBBBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Bplus1.pdb                AAAAAAAAAAABBAGBAAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_7_Bplus2.pdb                 AAAAAAAAAAAAAABBBBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_7_Bplus2.pdb                AAAAAAAAAAAABBABBBGAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Amin1.pdb                 AAAAAAAAAABBAABABAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Amin1.pdb                AAAAAAAAAAABBBAABBAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Amin2.pdb                 AAAAAAAAAAAAABBAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Amin2.pdb                   AAAAAAAAAAAAAAAAGBAABAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_A.pdb                 AAAAAAAAAAAAABBBAAGAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_A.pdb                AAAAAAAGBAAAEBAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Aplus1.pdb                 AAAAAAAAAAAAAABBAABAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Aplus1.pdb                AAAAAAAAAAAAAAABAABBAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAABBBBAEAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Aplus2.pdb                AAAAAAAAAAAAAAAABABBBGAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Bmin1.pdb                 AAAAAAAAAAAAABBBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Bmin1.pdb                AAAAAAAAAAAABBBGBBAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Bmin2.pdb                 AAAAAAAAAAAAAAGAOBBAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Bmin2.pdb                   AAAAAAAAAAAAAAAAGEABABAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_B.pdb                 AAAAAAAAAAABGBGAABAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_B.pdb                AAAAAAABGABABBAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Bplus1.pdb                 AAAAAAAAAAAAABBGABBAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Bplus1.pdb                AAAAAAAAAAAAGGAABAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-1_loop_len_8_Bplus2.pdb                 AAAAAAAAAAAAAABBAABAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_1_loop_len_8_Bplus2.pdb                AAAAAAAAAAAAABBBBAABAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Amin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Amin1.pdb                AAAAAAAAAAABBAGAAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Amin2.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Amin2.pdb                   AAAAAAAAAAAAAAABBGBAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_A.pdb                 AAAAAAAAAABEABAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_A.pdb                AAAAAAAGBAAAAAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Aplus1.pdb                 AAAAAAAAAAAGBAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Aplus1.pdb                AAAAAAAAAAAAGABBGAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Aplus2.pdb                 AAAAAAAAAAABBBBOBAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Aplus2.pdb                AAAAAAAAAAAAAGAGBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Bmin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Bmin1.pdb                AAAAAAAAAAAAGABBAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Bmin2.pdb                 AAAAAAAAABBBBOBAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Bmin2.pdb                   AAAAAAAAAAAAAAAAGABBAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_B.pdb                 AAAAAAAAABBBOBBAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_B.pdb                AAAAAABBBEAAAAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Bplus1.pdb                 AAAAAAAAABOEBBBAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Bplus1.pdb                AAAAAAAAAAAABABAAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_4_Bplus2.pdb                 AAAAAAAAAABBBEAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_4_Bplus2.pdb                AAAAAAAAAAAAAGBABAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Amin1.pdb                 AAAAAAAABBBBBABAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Amin1.pdb                AAAAAAAAAAAAGBBGAAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Amin2.pdb                 AAAAAAABBBBBABAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Amin2.pdb                   AAAAAAAAAAAAAAABEBGAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_A.pdb                 AAAAAAAAAABABBGAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_A.pdb                AAAAAAABABBGAAAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Aplus1.pdb                 AAAAAAAAAABAABAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Aplus1.pdb                AAAAAAAAAAAAAAABAAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAAAAGBBAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Aplus2.pdb                AAAAAAAAAAAAAAAABBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Bmin1.pdb                 AAAAAAAAAABBAABAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Bmin1.pdb                AAAAAAAAAAAAGBBGAAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Bmin2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Bmin2.pdb                   AAAAAAAAAAAAAAAABABBBAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_B.pdb                 AAAAAAAAAABBEBGAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_B.pdb                AAAAAAABABAAAAAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Bplus1.pdb                 AAAAAAAAAABBBEAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Bplus1.pdb                AAAAAAAAAAAABBABAAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_5_Bplus2.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_5_Bplus2.pdb                AAAAAAAAAAAAABAABBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Amin1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Amin1.pdb                AAAAAAAAAAABBBABBAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Amin2.pdb                 AAAAAAAAABBEBGAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Amin2.pdb                   AAAAAAAAAAAAAAABBBEAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_A.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_A.pdb                AAAAAAAGBBBBGAAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Aplus1.pdb                 AAAAAAAAAAABGBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAABGBBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAAAGBBGAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Aplus2.pdb                AAAAAAAAAAAAAAABGBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Bmin1.pdb                 AAAAAAAAAABABBGAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Bmin1.pdb                AAAAAAAAAAAABABABGAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Bmin2.pdb                 AAAAAAAAAAAGBAEAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Bmin2.pdb                   AAAAAAAAAAAAAAAABBGBBBAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_B.pdb                 AAAAAAAAAAABGBBGAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_B.pdb                AAAAAAABBABAAAAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Bplus1.pdb                 AAAAAAAAAAAGBABAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Bplus1.pdb                AAAAAAAAAAAABBABBBAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_6_Bplus2.pdb                 AAAAAAAAAABABAABAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_6_Bplus2.pdb                AAAAAAAAAAAAAGABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Amin1.pdb                 AAAAAAAAAABABEBGAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Amin1.pdb                AAAAAAAAAAABBBBAAAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Amin2.pdb                 AAAAAAAAABBABAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Amin2.pdb                   AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_A.pdb                 AAAAAAAAAAAAAAGBGAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_A.pdb                AAAAAAAGBAGBAAAAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Aplus1.pdb                 AAAAAAAAAAABGBABAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAAAAAABAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAABBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Aplus2.pdb                AAAAAAAAAAAAAAAAGBBGAGAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Bmin1.pdb                 AAAAAAAAAABABBGAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAGBAABOEAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Bmin2.pdb                 AAAAAAAAAAAGBEBGBAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Bmin2.pdb                   AAAAAAAAAAAAAAAAAAABBBBAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_B.pdb                 AAAAAAAAAABABAEAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_B.pdb                AAAABBBBBBBBBBABBAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Bplus1.pdb                 AAAAAAAAAABABABGGAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Bplus1.pdb                AAAAAAAAAAAAAAABAABAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_7_Bplus2.pdb                 AAAAAAAAAAABABAABAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_7_Bplus2.pdb                AAAAAAAAAAAAAAAAGABBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Amin1.pdb                 AAAAAAAAAABBAABAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Amin1.pdb                AAAAAAAAAAABBAABAAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Amin2.pdb                 AAAAAAAAAABABBBGAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Amin2.pdb                   AAAAAAAAAAAAAAABBBABAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_A.pdb                 AAAAAAAAAAABGBBBAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_A.pdb                AAAAAAAAAABABAAAAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Aplus1.pdb                 AAAAAAAAAAAAABBBBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Aplus1.pdb                AAAAAAAAAAAAABGBBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAABGBAEBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Aplus2.pdb                AAAAAAAAAAAAAAABAAABGAGAAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Bmin1.pdb                 AAAAAAAAAABBBGBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Bmin1.pdb                AAAAAAAAAAAABAAGAAEBAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Bmin2.pdb                 AAAAAAAAAAAGEAAABAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Bmin2.pdb                   AAAAAAAAAAAAAAAABBAABABAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_B.pdb                 AAAAAAAAAABABABEAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_B.pdb                AAAAAAAAAABBAAAAAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Bplus1.pdb                 AAAAAAAAAABBGAGGBAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Bplus1.pdb                AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-2_loop_len_8_Bplus2.pdb                 AAAAAAAAAAAAABAGBBAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_2_loop_len_8_Bplus2.pdb                AAAAAAAAAAAAAAAABAABBAAAAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Amin1.pdb                 AAAAAAABBOEBBAAAAAAAAAAAAAA        AAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Amin1.pdb                AAAAAAAAAAAABABAAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Amin2.pdb                 AAAAAAABBABAAAAAAAAAAAAAAAA        AO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Amin2.pdb                   AAAAAAAAAAAAAAABEBBAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_A.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_A.pdb                AAAAAAAABEBAAAAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Aplus1.pdb                 AAAAAAAAAAGABBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Aplus1.pdb                AAAAAAAAAAAAAAAGBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Aplus2.pdb                 AAAAAAAAAAAGGBBAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Aplus2.pdb                AAAAAAAAAAAAAAAAAGBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Bmin1.pdb                 AAAAAAAABBBBOEAAAAAAAAAAAAA        AAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Bmin1.pdb                AAAAAAAAAAAAABGBAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Bmin2.pdb                 AAAAAAAAGGBEAAAAAAAAAAAAAAA        AO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Bmin2.pdb                   AAAAAAAAAAAAAAAAAGGBGAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_B.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_B.pdb                AAAAAAAABABAAAAAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Bplus1.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Bplus1.pdb                AAAAAAAAAAAAAAABBAAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_4_Bplus2.pdb                 AAAAAAAABBOBBBAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_4_Bplus2.pdb                AAAAAAAAAAAAAAAABBAAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Amin1.pdb                 AAAAAAAAABGBBAAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Amin1.pdb                AAAAAAAAAAAABBAABAAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Amin2.pdb                 AAAAAAAABGBBAAAAAAAAAAAAAAA        AAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Amin2.pdb                   AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_A.pdb                 AAAAAAAAAAAEBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_A.pdb                AAAAAAAAABBBAAAAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Aplus1.pdb                 AAAAAAAAAAAGAGBAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Aplus1.pdb                AAAAAAAAAAAAGGGAGBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Aplus2.pdb                 AAAAAAAAAAAGBAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Aplus2.pdb                AAAAAAAAAAAAAAAABBBBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Bmin1.pdb                 AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Bmin1.pdb                AAAAAAAAAAAAAGGBBGAAAAAAAAA        AAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Bmin2.pdb                 AAAAAAAAAABEEAAAAAAAAAAAAAA        AAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Bmin2.pdb                   AAAAAAAAAAAAAAAAGBABBAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_B.pdb                 AAAAAAAAAAGBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_B.pdb                AAAAAAAAAABBAAAAAAAAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Bplus1.pdb                 AAAAAAAAAABBBGAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Bplus1.pdb                AAAAAAAAAAAAAAAABBAAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_5_Bplus2.pdb                 AAAAAAAAAABEBAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_5_Bplus2.pdb                AAAAAAAAAAAAAAAABABAAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Amin1.pdb                 AAAAAAAAEABBABAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Amin1.pdb                AAAAAAAAAAAABABBAGAAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Amin2.pdb                 AAAAAAAAAAAGBAAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Amin2.pdb                   AAAAAAAAAAAAAAAAGBABAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_A.pdb                 AAAAAAAAABGBBBBAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_A.pdb                AAAAAAAAAABBBAAAAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Aplus1.pdb                 AAAAAAAAAABAABBAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Aplus1.pdb                AAAAAAAAAAAAAAABBBBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Aplus2.pdb                 AAAAAAAAAAAAAAEBBAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Aplus2.pdb                AAAAAAAAAAAAAAAAGBBBBAAAAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Bmin1.pdb                 AAAAAAAAAABAGBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Bmin1.pdb                AAAAAAAAAAAAAAABABBAAAAAAAA        AAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Bmin2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Bmin2.pdb                   AAAAAAAAAAAAAAAAAAAGABBAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_B.pdb                 AAAAAAAAAABABBAAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_B.pdb                AAAAAAAAEABBEAAAAAAAAAAAAAA        AAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Bplus1.pdb                 AAAAAAAAAABBBBGAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Bplus1.pdb                AAAAAAAAAAAAAAAGABBAAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_6_Bplus2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_6_Bplus2.pdb                AAAAAAAAAAAAGAABBBABAAAAAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Amin1.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Amin1.pdb                AAAAAAAAAAAAAAABABAAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Amin2.pdb                 AAAAAAAABGBBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Amin2.pdb                   AAAAAAAAAAAAAAAAGABBBAAAAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_A.pdb                 AAAAAAAAAABBEAAAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_A.pdb                AAAAAAAABGBBBBAAAAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Aplus1.pdb                 AAAAAAAAAAAAABEBAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Aplus1.pdb                AAAAAAAAAAAAAAAGABABAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Aplus2.pdb                 AAAAAAAAAAAAAABBBBAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Aplus2.pdb                AAAAAAAAAAAAAAAABAAABBAAAAA        AAAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Bmin1.pdb                 AAAAAAAAAAAGBAABAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Bmin1.pdb                AAAAAAAAAAAAAAAGABAAAAAAAAA        AAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Bmin2.pdb                 AAAAAAAAAABBBBAAAAAAAAAAAAA        AAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Bmin2.pdb                   AAAAAAAAAAAAAAAAAAABAABBAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_B.pdb                 AAAAAAAAAABBABGAAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_B.pdb                AAAAAAAAAAGABBAAAAAAAAAAAAA        AAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Bplus1.pdb                 AAAAAAAAAAAEBBAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Bplus1.pdb                AAAAAAAAAAAAAAAGAABBAAAAAAA        AAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_7_Bplus2.pdb                 AAAAAAAAAABABBBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_7_Bplus2.pdb                AAAAAAAAAAAAAAABBAGBBAAAAAA        AAAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Amin1.pdb                 AAAAAAAABBAABBBBAAAAAAAAAAA        AAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_8_Amin1.pdb                AAAAAAAAAAAABBBGBBBBAAAAAAA        AAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Amin2.pdb                 AAAAAAAAGAAAGABAAAAAAAAAAAA        AAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_8_Amin2.pdb                   AAAAAAAAAAAAAAABAABBAABAAAA        AAAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_8_A.pdb                 AAAAAAAAAABAGOAAAAAAAAAAAAA        AAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_8_A.pdb                AAAAAAAAAABBGAEAAAAAAAAAAAA        AAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Aplus1.pdb                 AAAAAAAAAABBBGBAAAAAAAAAAAA        AAAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_8_Aplus1.pdb                AAAAAAAAAAAAAAAAGBBBBBAAAAA        AAAAAAAAAAAAAAAAAAO
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Aplus2.pdb                 AAAAAAAAAAAAAAGBBBBAAAAAAAA        AAAAAAAAAO
+18B19A_renum_0001-ext_ends_3_loop_len_8_Aplus2.pdb                AAAAAAAAAAAAAAAAGBAAAABAAAA        
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Bmin1.pdb                 AAAAAAAAAAAGBBBGBAAAAAAAAAA        
+18B19A_renum_0001-ext_ends_3_loop_len_8_Bmin1.pdb                AAAAAAAAAAAAAAABBBBBGAAAAAA        
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Bmin2.pdb                 AAAAAAAAAABBBABAAAAAAAAAAAA        
+18B19A_renum_0001-ext_ends_3_loop_len_8_Bmin2.pdb                   AAAAAAAAAAAAAAAAAAAGABBBBAA        
+18B19A_renum_0001-ext_ends_-3_loop_len_8_B.pdb                AAAAAAAAAABAABBGAAAAAAAAAAA        
+18B19A_renum_0001-ext_ends_3_loop_len_8_B.pdb                  AAAAAAAAAAAEEBABAAAAAAAAAAA        
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Bplus1.pdb                  AAAAAAAAAABBBGBAAAAAAAAAAAA       
+18B19A_renum_0001-ext_ends_3_loop_len_8_Bplus1.pdb               AAAAAAAAAAAAAAAEAAABBAAAAAA       
+18B19A_renum_0001-ext_ends_-3_loop_len_8_Bplus2.pdb               AAAAAAAAAABABABAAAAAAAAAAAA       
+18B19A_renum_0001-ext_ends_3_loop_len_8_Bplus2.pdb                  AAAAAAAAAAAAABAABAAAAAAAAAAAAA
