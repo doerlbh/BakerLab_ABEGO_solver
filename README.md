@@ -2,7 +2,7 @@
 
 use ABEGO to filter out good models
 
-by: 
+by:   
 Baihan Lin  
 Baker Lab  
 Oct 2015  
